@@ -1,21 +1,24 @@
+/**
 #include <stdio.h>
 #include <stdlib.h>
 
 int main()
 {
-    char color[20];
-    char pluralNoun[20];
-    char celebrity[20];
+    int number1[10];
+    int number2[10];
 
-    printf("Enter the Color:- ");
-    scanf("%s",color);
-    printf("Enter the Plural-noun:- ");
-    scanf("%s",pluralNoun);
-    printf("Enter the celebrity:- ");
-    scanf("%s",celebrity);
+    printf("%d",number1[6] + number2[8]);
 
-    printf("Roses are %s\n",color);
-    printf("%s are blue\n",pluralNoun);
-    printf("I love %s\n",celebrity);
     return 0;
+}
+*/
+
+#include<stdio.h>
+
+int main()
+{
+    char phrase[20] = "Array";
+    printf("%s",phrase[]);
+    return 0;
+
 }
