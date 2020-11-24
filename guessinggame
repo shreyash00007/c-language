@@ -1,0 +1,45 @@
+/**#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int Secretn = 9;
+    int guess;
+
+    while(guess != Secretn){
+        printf("Enter a number: ");
+        scanf("%d", &guess);
+    }
+   printf("You Win!");
+
+    return 0;
+}
+*/
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(){
+
+int secretNumber = 5;
+int guess;
+int guessCount= 0;
+int guesslimt = 3;
+int outofGuesses = 0;
+
+while(guess != secretNumber && outofGuesses == 0){
+    if(guessCount < guesslimt){
+        printf("Enter the number: ");
+        scanf("%d", &guess);
+        guessCount++;  // can be written as guessCount = guessCount + 1
+    } else{
+        outofGuesses = 1;
+    }
+}
+    if(outofGuesses == 1){
+        printf("Out of Guesses");
+    }else{
+    printf("You won my friend!!!");
+    }
+
+}
+
