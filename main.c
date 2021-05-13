@@ -1,14 +1,25 @@
+/**#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int i = 1;
+    while( i <= 6){
+        printf("%d\n", i);
+        i++;
+    }
+    return 0;
+}
+this is for understand that how the for loop works by
+the example of while loop
+*/
 #include <stdio.h>
 #include <stdlib.h>
 
 int main()
 {
-    int a = 12 , b = 24;
-    printf("AND %d",a&b);
-    printf("\nOR %d",a|b);
-    printf("\nNOT%d",~a,~b);
-    printf("%d\nLeft shift-",a<<2);
-    printf("%d\nRight shift-",b>>2);
-    printf("%d\nXOR-",a^b);
-    return 0;
+    int i;
+    for(i=1; i <= 5; i++){
+    printf("%d\n",i);
+}
 }
