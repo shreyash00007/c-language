@@ -3,23 +3,26 @@
 
 int main()
 {
-    int i = 1;
-    while( i <= 6){
-        printf("%d\n", i);
-        i++;
+    int index = 1;
+    while(index <= 5){
+
+    printf("%d\n",index);
+    index = index + 1; //it can be also written as index++
     }
+
     return 0;
 }
-this is for understand that how the for loop works by
-the example of while loop
 */
 #include <stdio.h>
-#include <stdlib.h>
 
-int main()
-{
-    int i;
-    for(i=1; i <= 5; i++){
-    printf("%d\n",i);
+int main(){
+
+ int index = 6;
+ do{
+  printf("%d\n",index);
+  index++;
+ }while(index <= 5);
+
+ return 0;
 }
-}
+
