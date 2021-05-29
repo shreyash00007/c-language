@@ -28,6 +28,6 @@ Guessinggame
 ```
 >[Guessinggame](https://github.com/shreyash00007/c-language-basic/blob/main/guessinggame)
 ```
-Height_&_inche
+Height_&_inch
 ```
->[Height_&_inches](https://github.com/shreyash00007/c-language-basic/blob/main/height-inch.c)
+>[Height_&_inch](https://github.com/shreyash00007/c-language-basic/blob/main/height-inch.c)
