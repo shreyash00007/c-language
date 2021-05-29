@@ -27,3 +27,7 @@ Deferencing
 Guessinggame
 ```
 >[Guessinggame](https://github.com/shreyash00007/c-language-basic/blob/main/guessinggame)
+```
+Height_&_inche
+```
+>[Height_&_inches](https://github.com/shreyash00007/c-language-basic/blob/main/height-inch.c)
