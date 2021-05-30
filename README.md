@@ -16,6 +16,10 @@ ForLoop
 ```
 >[Forloop](https://github.com/shreyash00007/c-language-basic/blob/main/Forloops.c)
 ```
+While Loop
+```
+>[WhileLoop](https://github.com/shreyash00007/c-language-basic/blob/main/WhileLoop.c)
+```
 Ifelse
 ```
 >[Ifelse](https://github.com/shreyash00007/c-language-basic/blob/main/ifelse.c)
