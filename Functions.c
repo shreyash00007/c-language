@@ -1,4 +1,4 @@
-/**#include <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 
 int main()
@@ -13,9 +13,6 @@ void sayhi(char name[],int age[])
 {
     printf("hello %s and your age is %d\n",name ,age);
 }
-*/
-
-
 
 
 /**#include <stdio.h>
