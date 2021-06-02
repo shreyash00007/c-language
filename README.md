@@ -28,6 +28,10 @@ Ifelse
 ```
 >[Ifelse](https://github.com/shreyash00007/c-language-basic/blob/main/ifelse.c)
 ```
+Functions
+```
+>[Functions]()
+```
 Deferencing
 ```
 >[Deferencing](https://github.com/shreyash00007/c-language-basic/blob/main/deferencing.c)
