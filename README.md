@@ -30,7 +30,7 @@ Ifelse
 ```
 Functions
 ```
->[Functions]()
+>[Functions](https://github.com/shreyash00007/c-language-basic/blob/main/Functions.c)
 ```
 Deferencing
 ```
