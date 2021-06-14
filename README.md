@@ -44,6 +44,10 @@ Height_&_inch
 ```
 >[Height_&_inch](https://github.com/shreyash00007/c-language-basic/blob/main/height-inch.c)
 ```
+Discount
+```
+>[Discount](https://github.com/shreyash00007/c-language-basic/blob/main/Discount.c)
+```
 Vowel
 ```
 >[vowel](https://github.com/shreyash00007/c-language-basic/blob/main/vowel.c)
