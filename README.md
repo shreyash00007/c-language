@@ -20,9 +20,9 @@ While Loop
 ```
 >[WhileLoop](https://github.com/shreyash00007/c-language-basic/blob/main/WhileLoop.c)
 ```
-Do While Loops
+Do While Loop
 ```
->[Do_While_Loops]()
+>[Do_While_Loop]()
 ```
 Ifelse
 ```
