@@ -4,7 +4,7 @@ well this is one of my staring git hub.
 ```
 Basic Printout
 ```
->[Basic Printout]()
+>[Basic Printout](https://github.com/shreyash00007/c-language-basic/blob/main/Basics%20printout%20.c)
 ```
 Basic Input Output
 ```
