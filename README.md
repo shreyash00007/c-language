@@ -16,7 +16,7 @@ Basic Input Output
 Calculator
 ```
 >[Calulator](https://github.com/shreyash00007/c-language-basic/blob/main/Calculator.c)
->[calc](https://github.com/shreyash00007/c-language-basic/blob/main/Allcalc.c)
+>[c lang](https://github.com/shreyash00007/c-language-basic/blob/main/Allcalc.c)
 
 ```
 ForLoop
