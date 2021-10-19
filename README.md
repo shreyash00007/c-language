@@ -1,5 +1,5 @@
 # c-language-basic
-This repositorie is made for revision of c language
+This repo is made for revision of c language
 well this is one of my staring git hub.
 
 <!--List of codes-->
